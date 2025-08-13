@@ -1,0 +1,104 @@
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #fff7dc;
+  }
+
+  .container {
+    width: 100%;
+    max-width: none;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 15px;
+  }
+
+  .botones {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 25px;
+  }
+
+  .botones form {
+    margin: 0;
+  }
+
+  .botones button {
+    background-color: #ffcc00;
+    color: black;
+    border: none;
+    padding: 12px 20px;
+    font-size: 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .botones button:hover {
+    background-color: #ffb300;
+  }
+
+  .animales-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .animal {
+    background-color: white;
+    border-radius: 12px;
+    padding: 12px;
+    width: 260px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+
+  .animal img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  .animal h3 {
+    margin: 10px 0 5px 0;
+  }
+
+  .animal p {
+    font-size: 14px;
+    margin: 4px 0;
+  }
+
+  .animal button {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+
+  .animal button:hover {
+    background-color: darkorange;
+  }
+
+  @media (max-width: 600px) {
+    .botones {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .animal {
+      width: 90%;
+    }
+  }
+</style>

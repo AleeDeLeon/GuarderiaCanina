@@ -1,0 +1,22 @@
+[
+    {
+        "usuario": "Admin",
+        "contrasena": "$2y$10$ZljFoS0JB5lCoGk0DFwmz.cqIG.xh.5M.x45.\/q\/V62YGKZ1g.JL2",
+        "rol": "admin"
+    },
+    {
+        "usuario": "Lucas",
+        "contrasena": "$2y$10$mNe1hr4UrR7yVue5OGTO5.DG\/9q63zhZ0kXE\/WD4XTb6SWPGVoMC2",
+        "rol": "usuario"
+    },
+    {
+        "usuario": "Roberto",
+        "contrasena": "$2y$10$uvtCHufHW8jKBdMI.VdHSuRrG703WyVBnHLMJ6ZLrOhc58i8ygCDy",
+        "rol": "usuario"
+    },
+    {
+        "usuario": "Lorena",
+        "contrasena": "$2y$10$PPFszUsQafs62MunYmhJmOFVGnjnBT5.cZJbPk0P8HT4ZPPH42uwq",
+        "rol": "usuario"
+    }
+]

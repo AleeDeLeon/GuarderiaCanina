@@ -1,0 +1,27 @@
+[
+    {
+        "usuario": "Admin",
+        "animal": "Luna",
+        "fecha": "2025-07-17 17:56:02"
+    },
+    {
+        "usuario": "Admin",
+        "animal": "Luna",
+        "fecha": "2025-07-17 19:00:48"
+    },
+    {
+        "usuario": "Lorena",
+        "animal": "Michi",
+        "fecha": "2025-07-18 19:00:07"
+    },
+    {
+        "usuario": "Lorena",
+        "animal": "Michi",
+        "fecha": "2025-07-18 19:00:10"
+    },
+    {
+        "usuario": "Lorena",
+        "animal": "Michi",
+        "fecha": "2025-07-18 19:00:16"
+    }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "nombre": "Luna",
+    "tipo": "Perro",
+    "edad": "2 años",
+    "descripcion": "Cariñosa y juguetona, le encanta correr.",
+    "foto": "uploads/luna.jpg"
+
+  },
+  {
+    "nombre": "Michi",
+    "tipo": "Gato",
+    "edad": "1 año",
+    "descripcion": "Tranquilo y dormilón, ideal para departamentos.",
+    "foto": "https://images.unsplash.com/photo-1555685812-4b943f1cb0eb"
+  },
+{
+    "nombre": "Nina",
+    "tipo": "Conejo",
+    "edad": "6 meses",
+    "descripcion": "Muy dócil y le encantan las zanahorias.",
+    "foto": "uploads/conejo1.jpg"
+  },
+  {
+    "nombre": "Rocky",
+    "tipo": "Perro",
+    "edad": "3 años",
+    "descripcion": "Fuerte, fiel y protector. Ideal para exteriores.",
+    "foto": "img/perro2.jpg"
+  }
+]
